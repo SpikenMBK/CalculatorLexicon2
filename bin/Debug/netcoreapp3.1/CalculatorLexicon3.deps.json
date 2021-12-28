@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CalculatorLexicon3/1.0.0": {
+        "runtime": {
+          "CalculatorLexicon3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CalculatorLexicon3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
